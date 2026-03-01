@@ -50,7 +50,7 @@ En resumen, puedes pensar en Copilot como un colega muy especializado. Para ser 
       # Validate student is not already signed up
       ```
 
-      <img width="700" alt="Copilot shadow text suggestion in the editor" src="../images/shadow-text.gif" />
+      <img width="700" alt="Copilot shadow text suggestion in the editor" src="https://github.com/ignaciomartinez96/unahur-getting-started-with-github-copilot/blob/main/.github/images/shadow-text.gif?raw=true" />
 
    1. Presiona `Tab` para aceptar la sugerencia de Copilot y convertir el texto fantasma en código.
 
@@ -91,7 +91,7 @@ En nuevas demandas de proyectos, a menudo es útil tener datos falsos realistas 
 
 1. Destaca el diccionario completo `activities` haciendo clic y arrastrando el mouse desde la parte superior hasta la inferior del diccionario. Esto ayudará a proporcionar contexto a Copilot para nuestro siguiente prompt.
 
-   <img width="700" alt="Highlighted activities dictionary before opening inline chat" src="../images/activities-dict-highlighted.png" />
+   <img width="700" alt="Highlighted activities dictionary before opening inline chat" src="https://github.com/ignaciomartinez96/unahur-getting-started-with-github-copilot/blob/main/.github/images/activities-dict-highlighted.png?raw=true" />
 
 
 1. Abre Copilot inline chat usando el comando de teclado `Ctrl + I` (Windows) o `Cmd + I` (Mac).
@@ -188,7 +188,7 @@ En nuevas demandas de proyectos, a menudo es útil tener datos falsos realistas 
 
 1. Encuentra el archivo `app.py` y presiona el signo `+` para reunir tus cambios en el área de staging.
 
-   ![image](../images/staging-changes-icon.png)
+   ![image](https://github.com/ignaciomartinez96/unahur-getting-started-with-github-copilot/blob/main/.github/images/staging-changes-icon.png?raw=true)
 
 1. Arriba de la lista de cambios preparados, encuentra el cuadro de texto **Message**, pero **no ingreses nada** por ahora.
    - Típicamente, escribirías una breve descripción de los cambios aquí, ¡pero ahora tenemos a Copilot para ayudar!

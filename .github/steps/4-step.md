@@ -30,7 +30,7 @@ Tu backend sigue teniendo cero cobertura de pruebas. Usa **Plan Agent** para cre
 
 1. Abre el panel **Copilot Chat** y cambia a **Plan Agent**.
 
-   <img width="350" alt="image" src="../images/plan-mode-dropdown.png" />
+   <img width="350" alt="image" src="https://github.com/ignaciomartinez96/unahur-getting-started-with-github-copilot/blob/main/.github/images/plan-mode-dropdown.png?raw=true" />
 
 
 1. Comencemos con un prompt amplio y Copilot nos ayudará a llenar los detalles:
@@ -64,7 +64,7 @@ Tu backend sigue teniendo cero cobertura de pruebas. Usa **Plan Agent** para cre
 
 1. Revisa el plan propuesto y cuando estés satisfecho con él, haz clic en **Start implementation** para transferir a **Agent Mode**.
 
-   <img width="350" alt="image" src="../images/plan-mode-start-implementation.png" />
+   <img width="350" alt="image" src="https://github.com/ignaciomartinez96/unahur-getting-started-with-github-copilot/blob/main/.github/images/plan-mode-start-implementation.png?raw=true" />
 
    Observa que al hacer clic en el botón se cambió de **Plan** a **Agent Mode**. A partir de este punto, Copilot puede editar tu base de código, como antes.
 

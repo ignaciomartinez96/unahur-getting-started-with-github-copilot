@@ -38,7 +38,7 @@ Nuestro sitio web lista actividades, ¡pero mantiene la lista de invitados en se
 
 1. En la parte inferior de la ventana de Copilot Chat, usa el dropdown para cambiar a **Agent** mode.
 
-   <img width="350" alt="image" src="../images/agent-mode-dropdown.png" />
+   <img width="350" alt="image" src="https://github.com/ignaciomartinez96/unahur-getting-started-with-github-copilot/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. Abre los archivos relacionados con nuestra página web y luego arrastra cada ventana del editor (o archivo) al panel de chat, informando a Copilot para usarlos como contexto.
 
@@ -48,7 +48,7 @@ Nuestro sitio web lista actividades, ¡pero mantiene la lista de invitados en se
 
    > 🪧 **Nota:** Agregar archivos como contexto es opcional. Si saltas esto, Copilot Agent Mode todavía puede usar herramientas como `#codebase` para buscar archivos relevantes de tu prompt. Agregar archivos específicos ayuda a apuntar a Copilot en la dirección correcta, lo cual es especialmente útil en bases de código más grandes.
 
-   <img width="400" alt="image showing files added to context" src="../images/files-added-to-context.png" />
+   <img width="400" alt="image showing files added to context" src="https://github.com/ignaciomartinez96/unahur-getting-started-with-github-copilot/blob/main/.github/images/files-added-to-context.png?raw=true" />
 
    > 💡 **Consejo:** También puedes usar el botón **Add Context...** para proporcionar otras fuentes de elementos de contexto, como un GitHub issue o los resultados de una ventana de terminal.
 
@@ -66,14 +66,14 @@ Nuestro sitio web lista actividades, ¡pero mantiene la lista de invitados en se
 
    Usando los botones **Keep** que se muestran a continuación, puedes aceptar/descartar todos los cambios o revisar y decidir cambio por cambio. Esto se puede hacer desde la vista del panel de chat o mientras inspeccionas cada archivo editado.
 
-      <img width="900" alt="buttons to keep or discard changes" src="../images/review-changes-buttons.png" />
+      <img width="900" alt="buttons to keep or discard changes" src="https://github.com/ignaciomartinez96/unahur-getting-started-with-github-copilot/blob/main/.github/images/review-changes-buttons.png?raw=true" />
 
 
 1. Antes de simplemente aceptar los cambios, verifica nuestro sitio web de nuevo y confirma que todo se actualizó como se esperaba.
    
    Aquí hay un ejemplo de una tarjeta de actividad actualizada. Puede que necesites reiniciar la aplicación o refrescar la página.
 
-   <img width="350" alt="Activity card with participant info" src="../images/activity-card-with-participants.png" />
+   <img width="350" alt="Activity card with participant info" src="https://github.com/ignaciomartinez96/unahur-getting-started-with-github-copilot/blob/main/.github/images/activity-card-with-participants.png?raw=true" />
 
    > 🪧 **Nota:** Tu tarjeta de actividad puede verse diferente. Copilot no siempre producirá los mismos resultados.
 
@@ -99,11 +99,11 @@ Si no obtienes los resultados deseados, puedes intentar otros modelos o proporci
 
 1. Asegúrate de que tu Copilot todavía esté en **Agent** mode.
 
-   <img width="250" alt="agent mode" src="../images/agent-mode-dropdown.png" />
+   <img width="250" alt="agent mode" src="https://github.com/ignaciomartinez96/unahur-getting-started-with-github-copilot/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. Haz clic en el icono **Tools** y explora todas las Herramientas actualmente disponibles para Copilot Agent Mode.
 
-   <img width="250"  alt="tools icon" src="../images/tools-icon.png" />
+   <img width="250"  alt="tools icon" src="https://github.com/ignaciomartinez96/unahur-getting-started-with-github-copilot/blob/main/.github/images/tools-icon.png?raw=true" />
 
 1. ¡Hora de nuestra prueba! Pidámosle a Copilot que agregue funcionalidad para eliminar participantes.
 
